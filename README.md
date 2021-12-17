@@ -1,2 +1,9 @@
-# IS_SOME_PC_UP
-Check is pc is up on network
+# IS SOME PC UP
+
+## Usage
+
+```bash
+chmod +x ispcup
+./ispcup.sh [room id]
+```
+
